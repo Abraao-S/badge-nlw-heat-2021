@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+<!-- 
+    Using in this project HTML:
+        • "preconnect" value for the rel attribute of the link element
+        • Importing an external CSS
+        • Classes and ID identifications
+        • Lists
+ -->
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Abraão - DoWhile 2021</title>
+        <link rel="stylesheet" href="style.css">
+        
+        <!--The preconnect keyword for the rel attribute of the <link> element is a hint to browsers that the user is likely to need resources from the target resource's origin, and therefore the browser can likely improve the user experience by preemptively initiating a connection to that origin. - https://developer.mozilla.org/en-US/docs/Web/HTML/Link_types/preconnect -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"> 
+    </head>
+    <body>
+        <main> <!-- in this project all content will be inside this main tag-->
+            <div class="container" id="presentation">
+                <div class="avatar">
+                    <span>
+                        <img src="images/rocketseat-logo.svg" alt="Selo da Rockeatseat">
+                    </span>
+                    <img id="userPhoto" src="https://lorempixel.com/185/185/people" alt="Personal user photo">
+                </div>
+                <h1 id="userName">
+                    Abraão
+                </h1>
+                <a id="userGithubLink" class="github" href="https://github.com" target="_blank">
+                    <img src="images/github-mini-icon.svg" alt="github small icon">
+                    <span id="userGithubName">Abraao-s</span>
+                </a>
+                <p id="userBio">
+                    Iniciando na programação web! =)
+                </p>
+                <ul id="socialLinks"> <!-- this list will contain four buttons with the 4 following social medias -->
+                    <li class="youtube"> <!--youtube button-->
+                        <a 
+                        href="https://youtube.com" 
+                        target="_blank" 
+                        rel="noopener noreferrer">
+                            <img 
+                            src="images/youtube-mini-icon.svg" 
+                            alt="small youtube icon">
+                        </a>
+                    </li>
+                    <li class="instagram"> <!--instagram button-->
+                        <a 
+                        href="https://instagram.com/braonis.guitarra" 
+                        target="_blank" 
+                        rel="noopener noreferrer">
+                            <img 
+                            src="images/instagram-mini-icon.svg" 
+                            alt="small instagram icon">
+                        </a>
+                    </li>
+                    <li class="facebook"> <!--facebook button-->
+                        <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
+                            <img src="images/facebook-mini-icon.svg" alt="small facebook icon">
+                        </a>
+                    </li>
+                    <li class="twitter"> <!--twitter button-->
+                        <a href="https://twitter.com/abraao_96" target="_blank" rel="noopener noreferrer">
+                            <img src="images/twitter-mini-icon.svg" alt="small twitter icon">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </main>
+        <script src="main.js"></script>
+    </body>
+</html>
