@@ -11,7 +11,7 @@ All images were provided by Rocketseat in NLW-Heat 2021.
 ## What I learned in this project:
 - Import external fonts and stylesheets for my code and how to use them;
 - How to use Document Object Model (DOM) to manipulate the HTML elements dynamically;
-- How to use the Fetch API to get data from a public API (in this case GitHub).    
+- How to use the Fetch API to get data from a public API (in this case GitHub) and use it in my project.    
 <br><br>   
 ## Tecnologies used:
 - HTML
