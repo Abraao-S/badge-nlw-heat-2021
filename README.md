@@ -6,18 +6,18 @@ It's a simple page with links to my social medias. The page is not (yet) respons
 
 The goal here was to introduce myself to some basic concepts of web development and the process of creating something from scratch. 
 
-All images were provided by Rocketseat in NLW-Heat 2021.
-<br>
+All images were provided by Rocketseat in NLW-Heat 2021.   
+<br><br>   
 ## What I learned in this project:
 - Import external fonts and stylesheets for my code and how to use them;
 - How to use Document Object Model (DOM) to manipulate the HTML elements dynamically;
-- How to use the Fetch API to get data from a public API (in this case GitHub).
-<br>
+- How to use the Fetch API to get data from a public API (in this case GitHub).    
+<br><br>   
 ## Tecnologies used:
 - HTML
 - CSS
 - Javascript
-<br>
+<br><br>   
 ## Things to learn next:
 Doing this project I discovered some possible next steps in my learning process:
 
