@@ -13,7 +13,7 @@ All images were provided by Rocketseat in NLW-Heat 2021.
 - How to use Document Object Model (DOM) to manipulate the HTML elements dynamically;
 - How to use the Fetch API to get data from a public API (in this case GitHub) and use it in my project.    
 <br><br>   
-## Tecnologies used:
+## Technologies used:
 - HTML
 - CSS
 - Javascript
