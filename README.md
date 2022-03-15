@@ -15,26 +15,26 @@
 	- Import external fonts and stylesheets for my code and how to use them;
 	- Organize elements by ID's for easy manipulation;
 	- Some other basic concepts. 
-<br>
+<br/>
 
 - CSS:
 	- How to use different selector (universal, element, class) to change the elements visuals;
 	- Use variables to define colors;
 	- Different usage of CSS units (pixels, rem);
 	- Flexbox basics.
-<br>
+<br/>
 
 - Javascript:
 	- Template string, arrow functions, promises;
 	- How to use Document Object Model (DOM) to manipulate the HTML elements dynamically;
 	- How to use the Fetch API to get data from a public API (in this case GitHub's) and use it in my project.
-<br>   
+<br/>   
 
 ## Technologies used:
 - HTML
 - CSS
 - Javascript
-<br>  
+<br/>  
 
 ## What to learn next:
 Doing this project I discovered some possible next steps in my learning process:
