@@ -1,14 +1,14 @@
 
 ## A personal badge created using GitHub public API.
 
-This is my first project ever! [Link](https://abraao-s.github.io/badge-nlw-heat-2021/)
+- This is my first project ever!
 
-It's a simple page with links to my social medias. The page is not (yet) responsive.
+- It's a simple page with links to my social medias. The page is not (yet) responsive.
 
-The goal here was to introduce myself to some basic concepts of web development and the process of creating something from scratch. 
+- The goal here was to introduce myself to some basic concepts of web development and the process of creating something from scratch. 
 
-All images were provided by Rocketseat in NLW-Heat 2021.   
-<br>   
+- All images were provided by Rocketseat in NLW-Heat 2021.   
+<br/>
 
 ## What I've learned in this project:
 - HTML: 
@@ -27,7 +27,7 @@ All images were provided by Rocketseat in NLW-Heat 2021.
 - Javascript:
 	- Template string, arrow functions, promises;
 	- How to use Document Object Model (DOM) to manipulate the HTML elements dynamically;
-	- How to use the Fetch API to get data from a public API (in this case GitHub) and use it in my project.    
+	- How to use the Fetch API to get data from a public API (in this case GitHub's) and use it in my project.
 <br>   
 
 ## Technologies used:
